@@ -1,7 +1,7 @@
-[PLACEHOLDER]
+![banner](https://github.com/PJURC-data-science/stroke-prediction/blob/main/media/banner.png)
 
 # Stroke Risk Prediction: Medical Outcome Analysis
-[View Notebook](https://github.com/TuringCollegeSubmissions/pjurci-DS.v2.5.3.2.5/blob/main/notebook.ipynb) | [Application](https://stroke-prediction-apgmtvsybdsgcvwzcfzsgs.streamlit.app/)
+[View Notebook](https://github.com/PJURC-data-science/stroke-prediction/blob/main/Stroke%20Prediction.ipynb) | [Application](https://stroke-prediction-apgmtvsybdsgcvwzcfzsgs.streamlit.app/)
 
 A machine learning analysis to predict stroke risk in patients using medical and lifestyle data. This study develops an ensemble model to identify high-risk patients and deploys an interactive prediction application.
 
